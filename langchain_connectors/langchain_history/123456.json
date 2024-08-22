@@ -1,0 +1,15 @@
+{
+    "context": [{
+            "input": "Hi, remember the secret word is cat",
+            "output": "Hello! Yes, I remember the secret word is cat. How can I assist you today?"
+        },
+        {
+            "input": "What is the secret word?",
+            "output": "The secret word is \"cat.\" How can I help you with that information?"
+        },
+        {
+            "input": "my name is Mohamad Al-Hamwi",
+            "output": "Nice to meet you, Mohamad Al-Hamwi! How can I assist you today?"
+        }
+    ]
+}
