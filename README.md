@@ -66,18 +66,18 @@ Choose the Ubility SDK to simplify your automation development process, increase
 
 You can install the Ubility python SDK from our GitHub page: 
 
-https://github.com/Uintegrate/uintegrate.git
+https://github.com/Ubility-SDK
 
 
 # Docstring Link
 
 You can check the Ubility Docstring by clicking on this link:
 
-https://docstring.uintegrate.io/
+https://docstring.ubilityai.com/
 
 
 # Stories And Templates Link
-https://documentation.uintegrate.io/
+https://documentation.ubilityai.com/
 
 
 
